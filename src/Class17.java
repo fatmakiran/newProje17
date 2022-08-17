@@ -3,5 +3,6 @@ public class Class17 {
 
         System.out.println("17. gun");
         //githubdegisikligi
+        //intelijey
     }
 }
